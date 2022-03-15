@@ -1,0 +1,17 @@
+Laptop_Mound_Support
+
+
+Sch:- 
+Paramaters:- 
+Clamp_Bar_Hih       = 31mm
+Clamp_Bar_Thic      = 15mm
+Wall_Thikness       = 10mm
+Bottom_Str_Len      = 87mm - 20mm
+Top_Str_Len         = 62mm  - 20mm
+Bricket_Clamp_Hig   = 20mm
+Support_Slope       = 116.114 Dec ( Deriverd Angle)
+Dowen_Ward_Extention= 50mm
+Bolt_Matgin         = 5mm
+
+
+
