@@ -1,7 +1,7 @@
 Laptop_Mound_Support
 
 
-Sch:- 
+Sch:- Sketch_Main
 Paramaters:- 
 Clamp_Bar_Hih       = 31mm
 Clamp_Bar_Thic      = 15mm
@@ -12,6 +12,11 @@ Bricket_Clamp_Hig   = 20mm
 Support_Slope       = 116.114 Dec ( Deriverd Angle)
 Dowen_Ward_Extention= 50mm
 Bolt_Matgin         = 5mm
+
+Refference:- 
+Hole_Top_MArgin   = 15mm
+Hole_Bottom_MArgin = 5mm
+Frond_To_Back_Len = 77mm
 
 
 
