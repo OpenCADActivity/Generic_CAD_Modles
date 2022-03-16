@@ -18,5 +18,12 @@ Hole_Top_MArgin   = 15mm
 Hole_Bottom_MArgin = 5mm
 Frond_To_Back_Len = 77mm
 
+Sch:- Sketch_Clamp_Hole
+Paramaters:- 
+
+Refference:- 
+Hole_Box_W  = 10mm
+Hole_Side_Dis = 5mm
+Hole_Side_Margin = 10mm
 
 
