@@ -17,9 +17,14 @@ Refference:-
 Hole_Top_MArgin   = 15mm
 Hole_Bottom_MArgin = 5mm
 Frond_To_Back_Len = 77mm
+Cent_Bottom_Len   = 20mm
+Top_Bottom_Len    = 91mm
 
 Sch:- Sketch_Clamp_Hole
 Paramaters:- 
+Clamp_Hole_Dia = 6mm
+Hole_Side_Margin = 10mm 
+Hole_Side_Dis    = 5mm
 
 Refference:- 
 Hole_Box_W  = 10mm
