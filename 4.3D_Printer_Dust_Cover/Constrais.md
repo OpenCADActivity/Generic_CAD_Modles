@@ -13,5 +13,10 @@
 <<Sketch_Main_Pol_Back_ScrewMain_Pol_Back_Screw>>.Constraints.Bold_Head_Pass_Hole_Dia
 
 
+<<Pole_Sketch>>.Constraints.X_Pole_Back_Screw_PLane_Dis
+<<Pole_Sketch>>.Constraints.Pole_fround_Screw_PLane_Dis
 
+<<Y_Pole_Sketch>>.Constraints.Y_Pole_Pipe_Center
+
+Lower_Plate_Dis_From_Orgin
 
