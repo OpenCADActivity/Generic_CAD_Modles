@@ -20,3 +20,6 @@
 
 Lower_Plate_Dis_From_Orgin
 
+Hex_Nut_Sizse  7.00 mm
+
+Hole_Dia = 5mm
