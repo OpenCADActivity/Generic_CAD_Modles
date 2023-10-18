@@ -1,0 +1,10 @@
+
+Outer_Thikness              = 5mm
+Back_Notch_Hig              = 74mm
+Back_Notch_Thicknes_Margin  = 5mm
+Back_Notch_Thicknes         = 30.86mm + Back_Notch_Thicknes_Margin
+Bottom_Thikness             = 22mm ( Actual = 20.12)
+Functional_Wall_Thikness    = 10mm
+Frount_Notch                = 15mm
+Support_Highet              = 140mm
+Base_Width                  = 84mm
